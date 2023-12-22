@@ -1,0 +1,4 @@
+github.com/vma/esl v1.0.0 h1:moHEIPRzlaisgusM9KCiTJI2SogmGFnkuc4pFZMXWkw=
+github.com/vma/esl v1.0.0/go.mod h1:XdT6P3Hoh0kUSvqE9SU5JBmDzXdkAqNjdGtYayIjwXM=
+github.com/vma/getopt v1.0.0 h1:qlMC34dIz9JNqw2Fjz20SaEuOfKstWKXqPeACv9wVyE=
+github.com/vma/getopt v1.0.0/go.mod h1:vBIZcCv5rZYPJ/8QzUl5GBxQr41M/LmBunR73bA7V7Q=
